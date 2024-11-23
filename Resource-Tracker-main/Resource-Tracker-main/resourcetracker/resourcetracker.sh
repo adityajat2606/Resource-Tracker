@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ####################
-# Author: Ansh Porwal
-# Date : 28th June
+# Author: Aditya Choudhary
+# Date : 24th April
 #
 # Version: v1
 #
