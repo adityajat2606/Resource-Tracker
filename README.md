@@ -21,7 +21,7 @@ This project features an automated script designed to monitor and report on vari
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ansh2608/Resource-Tracker.git
+   git clone https://github.com/adityajat2606/Resource-Tracker.git
 
 2. Navigate to the project directory:
    ```bash
